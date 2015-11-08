@@ -1,4 +1,4 @@
-# Functional Domain Modeling in Java
+# Functional Domain Modeling in Scala
 
 I tried to implement some examples from this slides.
 
